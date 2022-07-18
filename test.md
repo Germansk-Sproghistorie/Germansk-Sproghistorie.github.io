@@ -1,4 +1,4 @@
 layout: page
 title: "Title"
-permalink: /Test/
+permalink: /Test/Test/
 # Markdown testing

@@ -1,1 +1,1 @@
-# Germansk Sproghistorie (readme)
+# Germansk Sproghistorie

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Svage verbernes bøjning"
 permalink: /Morfologi/SvageVerber/
 ---

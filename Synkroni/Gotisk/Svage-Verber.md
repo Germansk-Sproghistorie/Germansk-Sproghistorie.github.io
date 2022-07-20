@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Svage verbernes bøjning"
-permalink: /Morphologi/
-
+permalink: /Morfologi/SvageVerber/
+---
 # Svage verbernes bøjning
 
 |       | Klasse I   | Klasse II   | Klasse III  | Klasse IV    |
